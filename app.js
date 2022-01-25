@@ -11,7 +11,11 @@ const myName = "sumin";
 console.log(a+b);
 console.log(a*b);
 console.log(a/b);
-
 console.log("Hello " + "Sumin");
 console.log("Hello " + myName);
 
+let Name = "Baek";
+console.log("your full name is " + Name);
+Name = "Baek Sumin";
+console.log("your full name is " + Name);
+var variable = 0;
